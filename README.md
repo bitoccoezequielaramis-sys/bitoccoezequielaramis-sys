@@ -150,14 +150,6 @@ Status:
 
 ---
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=algolia&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true"/>
-
-</div>
-
----
-
 # 📈 CONTRIBUTION MAP
 
 <div align="center">
@@ -173,16 +165,6 @@ Status:
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🎧 NOW PLAYING
-
-<div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
 
 </div>
 
