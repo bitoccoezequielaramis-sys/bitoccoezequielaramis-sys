@@ -1,142 +1,97 @@
-<h1 align="center">
-  👋 Hola, soy Aramis Bitocco
-</h1>
+!-- ========================= -->
+<!--        ULTRA HERO         -->
+<!-- ========================= -->
 
-<h3 align="center">
-💻 Full Stack Developer | 🚀 Siempre aprendiendo | ☕ Mate + Código = ❤️
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=console.log(%22Hola+Mundo%22);+;Full+Stack+Developer;Open+Source+Enthusiast;Siempre+construyendo+algo+nuevo..." />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,25:00BFFF,50:7B00FF,75:FF00FF,100:FF512F&text=⚡%20WELCOME%20TO%20MY%20DIGITAL%20WORLD%20⚡&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🚀+FULL+STACK+DEVELOPER;⚡+BUILDING+COOL+THINGS+EVERY+DAY;🔥+CLEAN+CODE+%7C+HIGH+PERFORMANCE;🤖+AI+%7C+CLOUD+%7C+OPEN+SOURCE"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge&color=00F5FF"/>
+
+<img src="https://img.shields.io/github/stars/TU_USUARIO?affiliations=OWNER&style=for-the-badge&color=FFD700"/>
+
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-7B00FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20PROJECTS-00FF99?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/COFFEE-INFINITE-brown?style=for-the-badge"/>
 
 ---
 
-# ⚡ Sobre mí
+# ⚡ 「 INITIALIZING DEVELOPER PROFILE... 」
 
-```js
-const aramis = {
-    nombre: "Aramis Bitocco",
-    pais: "Argentina 🇦🇷",
-    rol: "Full Stack Developer",
-    lenguajes: [
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "Java",
-        "C#"
-    ],
-    tecnologias: {
-        frontend: [
-            "React",
-            "Next.js",
-            "TailwindCSS",
-            "HTML",
-            "CSS"
-        ],
-        backend: [
-            "Node.js",
-            "Express",
-            ".NET",
-            "Spring Boot"
-        ],
-        databases: [
-            "MySQL",
-            "PostgreSQL",
-            "MongoDB"
-        ],
-        tools: [
-            "Git",
-            "Docker",
-            "Linux",
-            "VS Code"
-        ]
-    },
-    estado: "Construyendo cosas épicas 🚀"
-}
+```text
+██████╗  ███████╗ ██╗   ██╗
+██╔══██╗ ██╔════╝ ██║   ██║
+██║  ██║ █████╗   ██║   ██║
+██║  ██║ ██╔══╝   ╚██╗ ██╔╝
+██████╔╝ ███████╗  ╚████╔╝
+╚═════╝  ╚══════╝   ╚═══╝
+
+✔ Loading Skills...
+████████████████████ 100%
+
+✔ Loading Creativity...
+████████████████████ 100%
+
+✔ Loading Coffee...
+████████████████████ 999%
+
+✔ Ready.
 ```
 
 ---
 
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,python,java,cs,dotnet,spring,mysql,postgres,mongodb,docker,git,linux,vscode,tailwind&perline=10"/>
-
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 ---
 
-# 📊 Estadísticas
+### 🚀 CURRENT SYSTEM STATUS
 
-<p align="center">
+```yaml
+Developer:
+  Name: Tu Nombre
+  Level: Senior Mindset
+  Status: ONLINE
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+Mission:
+  - Build awesome software
+  - Learn every day
+  - Ship quality code
+  - Never stop improving
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+Location:
+  Planet Earth 🌍
 
-</p>
+Power Level:
+  ████████████████████ 100%
 
----
+Energy:
+  ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
-# 🔥 Racha de contribuciones
+Coffee:
+  ☕ ☕ ☕ ☕ ☕ ☕ ☕
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Trofeos
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-
-</p>
-
----
-
-# 🌌 Actividad
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
-
-</p>
+Bug Counter:
+  0 (hopefully 😂)
+```
 
 ---
 
-# 🌐 Contacto
-
-<p align="center">
-
-<a href="https://github.com/TU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:tuemail@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
 
 ---
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile+Views&color=0e75b6&style=flat"/>
+</div>
 
-</p>
-
----
 
 <h3 align="center">
 
