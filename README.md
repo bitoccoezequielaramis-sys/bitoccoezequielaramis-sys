@@ -19,8 +19,7 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                 ARAMIS OS v3.0 STARTUP                       │
-└──────────────────────────────────────────────────────────────┘
+EROME└──────────────────────────────────────────────────────────────┘
 
 > Initializing Kernel......................... OK
 > Loading GitHub Profile...................... OK
@@ -42,7 +41,7 @@ STATUS: READY 🚀
 
 ```yaml
 Name:
-  Aramis Bitocco
+Messi Erome
 
 Role:
   Full Stack Developer
